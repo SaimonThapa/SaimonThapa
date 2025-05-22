@@ -10,9 +10,11 @@
   
   ![](https://github-readme-stats.vercel.app/api?username=SaimonThapa&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
   ![](https://nirzak-streak-stats.vercel.app/?user=SaimonThapa&theme=dark&hide_border=true)
-</div>  
+</div> 
+<div align="center">
 <br clear="both">
 <img src="https://raw.githubusercontent.com/SaimonThapa/SaimonThapa/output/snake.svg" alt="Snake animation" />
+</div>
 </p>
 <H2 align="left">💼 Skills:</H2>
 
