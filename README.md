@@ -2,7 +2,8 @@
   <img height="200" src="https://private-user-images.githubusercontent.com/74038190/238200121-6357eb37-3a0e-4efe-b015-ce8b14e910d6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc4OTgwNDYsIm5iZiI6MTc0Nzg5Nzc0NiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDAxMjEtNjM1N2ViMzctM2EwZS00ZWZlLWIwMTUtY2U4YjE0ZTkxMGQ2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIyVDA3MDkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5M2Y1MTI0MmRhOTAxNDRlZmJlNzZkMzc2OWRhNWJiYjViNzM5NzA3OWYzMjYxYzRmODc3OWJmMDM0YjYyZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5y1quPg57aRas6mshs-pRqtykKCOMlLtmD3Tl22U6bw"  />
 </div>
 
-###Hi 👋, I'm Saimon
+<H1 align ="center"> Hi there, I'm Saimon👋</H1>
+<H2 align ="center"> I code in my sleep 💤 </H2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/SaimonThapa/count.svg?"  />
