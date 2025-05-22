@@ -4,11 +4,11 @@
 </div>
 <div align ="center">
   
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaimonThapa&theme=dark) 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaimonThapa&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   ![](https://github-readme-stats.vercel.app/api?username=SaimonThapa&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false)
   ![](https://nirzak-streak-stats.vercel.app/?user=SaimonThapa&theme=gruvbox_light&hide_border=true)<br/>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaimonThapa5&theme=gruvbox)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaimonThapa&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</div>
+</div>  
 <br clear="both">
 <img src="https://raw.githubusercontent.com/SaimonThapa/SaimonThapa/output/snake.svg" alt="Snake animation" />
 </p>
